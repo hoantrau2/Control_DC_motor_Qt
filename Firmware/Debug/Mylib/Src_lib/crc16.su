@@ -1,0 +1,2 @@
+../Mylib/Src_lib/crc16.c:45:10:crc16_buff	24	static
+../Mylib/Src_lib/crc16.c:53:10:crc16_floating	16	static
